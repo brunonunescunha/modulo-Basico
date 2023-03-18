@@ -1,0 +1,15 @@
+.produto{
+    background-color: aqua;
+    padding: 5px 5px 5px 20px;
+    border: 5px solid red;
+    
+    width: 200px;
+}
+.produto samp{
+    font-size: 24px;
+    color: rgb(239, 13, 190);
+} 
+
+
+
+

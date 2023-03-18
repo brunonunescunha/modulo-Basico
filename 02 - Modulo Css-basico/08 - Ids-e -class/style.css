@@ -1,0 +1,11 @@
+#descricao-pc,#descricao-videogamer{
+    background-color: orange;
+}
+
+.descricao{
+    background-color: aqua;
+}
+
+.promocao {
+    border: solid 10px red;
+}

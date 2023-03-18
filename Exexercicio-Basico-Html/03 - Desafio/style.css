@@ -1,0 +1,11 @@
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+
+.descricao-carro{
+    background-color:#F5F5F5;
+}
+.descricao-cadeira{
+    background-color: #F0CCE2;
+}
